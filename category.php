@@ -1,1 +1,1 @@
-<?= "team B" ?>
+<?php echo "team B"; ?>
